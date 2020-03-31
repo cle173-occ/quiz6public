@@ -1,2 +1,2 @@
 # quiz6public
-local food hub program
+looking for a project to join
