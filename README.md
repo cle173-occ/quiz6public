@@ -1,3 +1,6 @@
 # quiz6public
-Looking for a project to join. 
-I am interested in making a web crawler of some sort or any kind of app. However, I am open to any project idea. 
+Partner: Alberto Acevedo 
+Instructor: Anita “Marie” Tsaasan
+
+We are currently trying to find a Game that will fit all the criteria for the project.
+The only research so far has been on the different engines that we can use. 
